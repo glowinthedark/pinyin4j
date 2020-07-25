@@ -1,0 +1,2 @@
+include ':pinyin4j'
+rootProject.name = "pinyin4j"
