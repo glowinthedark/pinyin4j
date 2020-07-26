@@ -1,2 +1,3 @@
 include ':pinyin4j'
-rootProject.name = "pinyin4j"
+include ':app'
+rootProject.name = "pinyin4japp"
